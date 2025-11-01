@@ -1,0 +1,19 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+pubspec.lock
+build/
+.coverage
+.idea/
+.vscode/
+.flutter-plugins
+.flutter-plugins-dependencies
+.melos_tool
+
+# macOS
+.DS_Store
+
+# Generated files
+
+# Logs
+*.log
